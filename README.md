@@ -21,7 +21,7 @@ git clone https://github.com/FalkFranco/criptos-react.git
 2. Change the working directory
 
 ```bash
-cd criptos-react
+cd pokemon-react
 ```
 
 3. Execute:
